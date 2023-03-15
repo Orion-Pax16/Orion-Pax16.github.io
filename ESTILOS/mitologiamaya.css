@@ -1,0 +1,77 @@
+html{
+    background-color: brown;
+}
+h3{
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: monospace;
+    font-size: 280%;
+    border: solid;
+}
+#fig1{
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 224px;
+    padding: 1%;
+    margin: 30px;
+}
+#fig2{
+    float: right;
+    height: 224px;
+    padding: 1%;
+    margin: 50px;
+    background-color: azure;
+}
+.tit{
+    margin: 12px;
+    padding: 1%;
+    font-family: verdana;
+    color: beige;
+    text-align: left;
+}
+p{
+    text-align: justify-all;
+    color: antiquewhite;
+    font-family: arial;
+}
+li{
+    font-size: 20px;
+    color: darkseagreen;
+}
+.t2{
+    text-align: left;
+    text-decoration: underline;
+}
+#div1{
+    display: inline-block;
+    width: 49%;
+    float: left;
+    border: solid;
+    border-style: dotted;
+    border-color: burlywood;
+    border-radius: 3%;
+}
+#div2{
+    display: inline-block;
+    width: 49%;
+    float: right;
+    border: solid;
+    border-style: dashed;
+    border-color: chocolate;
+    border-radius: 2%;
+}
+#fig3{
+    width:40%;
+    margin: 20px; 
+    border: solid;
+    border-radius: 5%;
+    border-color: aqua;
+}
+#fig4{
+    width: 40%;
+    margin: 15px;
+    border: solid;
+    border-radius: 2%;
+    border-color: aqua;
+}

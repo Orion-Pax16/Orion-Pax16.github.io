@@ -1,0 +1,21 @@
+#titulo{
+    color: brown;
+    word-spacing: 0.5px;
+    background-color: beige;
+    font-family: monospace;
+    text-align: center;
+    font-size: 6.0ex;
+}
+#dato{
+    text-align: right;
+    font-family: cursive;
+    font-size: 3.0ex;
+}
+.info{
+    font-family: cursive;
+    text-align: center;
+    font-size: 3.0ex;
+}
+#img{
+    float: right;
+}

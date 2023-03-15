@@ -1,0 +1,42 @@
+html{
+    background-color: floralwhite;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-family: roboto;
+    font-size: 40px;
+    padding: 1%;
+    margin: 10px;
+    border: solid;
+    border-color: lightyellow;
+    background-color: lightgoldenrodyellow;
+}
+li{
+    display: block;
+    text-align: center;
+    font-size: 23px;
+    border: solid;
+    border-color: silver;
+    background-color: silver;
+    padding: 1%;
+    margin: 10px;
+}
+p{
+    text-align: justify;
+    font-size: 18px;
+    padding: 1%;
+    margin: 10px;
+}
+#fig2{
+    float: left;
+    padding: 1%;
+    margin: 10px;
+    width: 500px;
+}
+#fig3{
+    float: right;
+    padding: 1%;
+    margin: 10px;
+    width: 600px;
+}

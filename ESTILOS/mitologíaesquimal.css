@@ -1,0 +1,59 @@
+html{
+    background-color: skyblue;
+}
+h3{
+    font-size: 34px;
+    text-align: center;
+    width: 100%;
+    font-family: sans-serif;
+}
+article{
+    border: solid;
+    border-color: whitesmoke;
+    padding: 6%;
+    margin: 20px;
+    text-align: justify;
+    align-content: center;
+}
+li{
+    font-size: 23px;
+    font-family: calibri;
+}
+p{
+    font-size: 17px;
+    font-family: verdana;
+    color: lightslategrey;
+    text-decoration: underline;
+}
+#fig1{
+    padding: 1%;
+    margin: 8px;
+    float: left;
+    clear: both;
+    border-right-style: double 5%;
+    background-color: powderblue;
+}
+#fig2{
+    height: 300px;
+    float: right;
+    padding: 1%;
+    margin: 8px;
+    clear: both;
+    background-color: powderblue;
+}
+#fig3{
+    width: 40%;
+    float: center;
+    clear: both;
+    margin: 8px;
+    padding: 1%;    
+    background-color: powderblue;
+}
+#fig4{
+    float: right;
+    clear: both;
+    margin: 8px;
+    padding: 1%;
+    clear: both;
+    background-color: powderblue;
+}

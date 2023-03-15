@@ -1,0 +1,37 @@
+html{
+    background-color: lightcyan;
+}
+h3{
+    background-color: lightblue;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: cursive;
+}
+p{
+    text-align: center;
+    font-family: verdana;
+    font-size: 18px;
+}
+dt{
+    font-family: calibri;
+    text-align: center;
+    font-size: 27.5px;
+    padding: 1%;
+    margin: 10px;
+    color: gold;
+}
+dd{
+    display: inline-block;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    border: solid;
+    border-color: lightgoldenrodyellow;
+    color: mediumturquoise;
+    border: solid;
+    border-color: cornsilk;
+}
+#fig1{
+    width: 800px;
+}

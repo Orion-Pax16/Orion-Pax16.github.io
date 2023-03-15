@@ -1,0 +1,37 @@
+html{
+    background-color: goldenrod;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: calibri;
+}
+li{
+    font-size: 23px;
+    text-align: center;
+    display:grid;
+    border: solid;background-color: rosybrown;
+    padding: 1%;
+    margin: 8px;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    padding: 1%;
+    border: solid black;
+    margin: 10px;
+}
+#fig1{
+    width: 700px;
+    border-radius: 3%;
+}
+#fig2{
+    width: 400px;
+    float: right;
+    border-radius: 3%;
+}
+#fig3{
+    width: 400px;
+    border-radius: 3%;
+}

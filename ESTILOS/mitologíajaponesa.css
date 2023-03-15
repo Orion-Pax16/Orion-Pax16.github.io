@@ -1,0 +1,78 @@
+html{
+    background-color: cornsilk;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: arial;
+}
+.tit{
+    text-decoration: none;
+    font-size: 23px;
+    font-family:fantasy;
+    padding: 1%;
+    margin: 8px;
+    background-color: cornsilk;
+}
+.tx{
+    text-decoration: none;
+    background-color: cornsilk;
+}
+li{
+    float: left;
+    clear: both;
+    font-size: 18px;
+    width: 40%;
+    text-decoration: underline;
+    padding: 1%;
+    margin: 5px;
+    display: inline-block;
+    background-color:darkturquoise;
+}
+p{
+    float: left;
+    clear: both;
+    width: 40%;
+    padding: 1%;
+    margin: 8px;
+    border: solid;
+    border-style: groove;
+    border-radius: 5%;
+    border-color: fuchsia;
+}
+#fig1{
+    clear: both;
+    padding: 2.5%;
+    margin: 12px;
+}
+#fig2{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}
+#fig3{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}
+#fig4{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}
+#fig5{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}
+#fig6{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}
+#fig7{
+    clear: both;
+     padding: 2.5%;
+    margin: 12px;
+}

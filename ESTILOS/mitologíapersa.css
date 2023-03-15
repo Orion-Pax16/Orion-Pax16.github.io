@@ -1,0 +1,46 @@
+html{
+    background-color: silver;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: verdana;
+    color: gold;
+}
+li{
+    font-family: arial;
+    font-size: 23px;
+    color: lightyellow;
+    display: inline-block;
+    float: left;
+    clear: both;
+    padding: 2%;
+    margin: 5px;
+    clear: both;
+}
+p{
+    clear: both;
+    float: right;
+    padding: 1%;
+    margin: 10px;
+    border: solid;
+    border-color: burlywood;
+    clear: both;
+}
+#fig1{
+    width: 300px;
+    padding: 5%;
+    margin: 8px;
+    align-content: center;
+    float: left;
+}
+#fig2{
+    float: right;
+    
+}
+
+#fig3{
+    clear: both;
+    float: right;
+}

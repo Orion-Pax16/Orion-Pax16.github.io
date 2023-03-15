@@ -1,0 +1,43 @@
+html{
+    background-color: indianred;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: verdana;
+    background-color: darkgoldenrod;
+}
+.tit{
+    font-size: 30px;
+    display: inline;
+    border: solid;
+    border-color:cadetblue;
+    color:dodgerblue;
+    margin: 10px;
+    padding: 1%;
+    text-align: center;
+    clear: both;
+}
+li{
+    padding: 1%;
+    margin: 10px;
+    font-family: monospace;
+    font-size: 21px;
+    width: 25%;
+    color: pink;
+    text-decoration: underline;
+    clear: both;
+}
+p{
+    font-size: 18px;
+    padding: 1%;
+    margin: 10px;
+}
+figure{
+    width: 35%;
+    position: relative;
+    padding: 5%;
+    margin: 10px;
+    align-content: center;
+}

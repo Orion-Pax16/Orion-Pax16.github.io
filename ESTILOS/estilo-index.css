@@ -1,0 +1,20 @@
+#titulo{
+    text-align: center;
+    color: brown;
+    font-family: monospace;
+}
+#imagen1{
+    float: right;
+}
+#barraNav{
+    clear: both;
+    color: darkgreen;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: beige;
+    border: solid;
+    text-align: center;
+    color: brown;
+}

@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: brown;
+    background-color: beige;
+    border: inset;
+    border-bottom-color: antiquewhite;
+    font-family: fantasy;
+    word-spacing: 13px;
+}
+h3{
+    color: darkcyan;
+    background-color: beige;
+    font-family: monospace;
+    font-size: 25px;
+}
+li{
+    color: black;
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    color: dodgerblue;
+    background-color: beige;
+    border: inset;
+    border-bottom-color: antiquewhite
+}
+p{
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    font-variant-caps: petite-caps;
+}
+#acostado{
+    text-align: center
+}
+#sensuales{
+    text-align: center;
+}
+#noche{
+    float: left;
+    padding: 20px

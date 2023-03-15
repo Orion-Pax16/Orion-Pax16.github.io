@@ -1,0 +1,61 @@
+html{
+    background-color: dodgerblue;
+}
+h3{
+    color: ghostwhite;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    background-color: red  
+}
+dl{
+    border: solid;
+    border-color: chocolate;
+    background-color:darkgray;
+}
+dt{
+    float: left;
+    padding: 1%;
+    margin: 10px;
+    clear: both;
+    font-size: 23px;
+    text-decoration: underline blue;
+}
+dd{
+    text-align: justify;
+    padding: 1%;
+    margin: 8px;
+    clear: both;
+    font-size: 18px;
+    text-decoration: underline white;
+}
+#fig1{
+    clear: both;
+    float: left;
+    padding: 3%;
+    margin: 8px;
+    background-color: ghostwhite;
+}
+#fig2{
+    clear: both;
+    padding: 3%;
+    margin: 8px;
+    background-color: ghostwhite;
+}
+#fig3{
+    clear: both;
+    padding: 3%;
+    margin: 8px;
+    background-color: ghostwhite;
+}
+#fig4{
+    clear: both;
+    padding: 3%;
+    margin: 8px;
+    background-color: ghostwhite;
+}
+#fig5{
+    padding: 3%;
+    margin: 10px;
+    background-color: ghostwhite;
+}

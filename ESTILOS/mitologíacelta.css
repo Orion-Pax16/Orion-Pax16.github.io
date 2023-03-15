@@ -1,0 +1,50 @@
+html{
+    background-color: aliceblue;
+}
+h3{
+    text-align: center;
+    width: 100%;
+    font-family: calibri;
+    color: cornflowerblue;
+    font-size: 40px;
+}
+p{
+    text-align:justify;
+    font-family: monospace;
+    font-size: 14.5px;
+    color: darkblue;
+    margin: 1%;
+    padding: 12px;
+}
+.sub{
+    font-size: 20px;
+    font-family: fantasy;
+    margin: 12px;
+    padding: 1%;
+    color: darkslategray;
+    display: inline-block;
+    border: solid;
+    border-color: darkmagenta;
+}
+.sub2{
+    font-size: 16px;
+    font-family: serif;
+    margin: 10px;
+    padding: 2%;
+    text-decoration: underline;
+    color:firebrick;
+}
+#fig1{
+    width: 30%;
+    float: left;
+    border: solid coral;
+    background-color: coral;
+    border-radius: 5%;
+}
+#fig2{
+    width: 39%;
+    float: right;
+    border: solid coral;
+    background-color: coral;
+    border-radius: 5%;
+}
